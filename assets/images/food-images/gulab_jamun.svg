@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8bbd0"/>
+      <stop offset="100%" style="stop-color:#d7ccc8"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <text x="200" y="140" text-anchor="middle" font-family="Arial" font-size="26" fill="#880e4f" font-weight="bold">Gulab Jamun</text>
+  <text x="200" y="180" text-anchor="middle" font-family="Arial" font-size="16" fill="#ad1457">Sweet Syrup Delight</text>
+  <circle cx="185" cy="70" r="22" fill="#e91e63" opacity="0.4"/>
+  <circle cx="215" cy="70" r="22" fill="#f06292" opacity="0.4"/>
+</svg>

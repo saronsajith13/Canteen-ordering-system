@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4fc79"/>
+      <stop offset="100%" style="stop-color:#96e6a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <text x="200" y="140" text-anchor="middle" font-family="Arial" font-size="28" fill="#1e8449" font-weight="bold">Rice Meal</text>
+  <text x="200" y="180" text-anchor="middle" font-family="Arial" font-size="16" fill="#27ae60">Complete Meal</text>
+  <rect x="160" y="50" width="80" height="60" rx="5" fill="#82e0aa" opacity="0.4"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffecd2"/>
+      <stop offset="100%" style="stop-color:#fcb69f"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <text x="200" y="140" text-anchor="middle" font-family="Arial" font-size="28" fill="#d35400" font-weight="bold">Idli</text>
+  <text x="200" y="180" text-anchor="middle" font-family="Arial" font-size="16" fill="#e67e22">Soft &amp; Fluffy Rice Cakes</text>
+  <circle cx="200" cy="80" r="40" fill="#f5deb3" opacity="0.5"/>
+</svg>
