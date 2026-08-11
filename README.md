@@ -1,0 +1,1 @@
+The Canteen Ordering System is a user-friendly web application designed to simplify food ordering in a school, university, or workplace canteen. Users can browse the menu, select food items, add them to a cart, place orders, and view order details. The system helps canteen staff manage food items, customer orders, prices, and availability efficiently.
